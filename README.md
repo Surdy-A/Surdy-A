@@ -13,7 +13,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Sofware Engineer 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 
@@ -36,7 +36,7 @@
 <!--Intro start-->
 - 🔭 I’m currently working on **Golang, Javascript, React, Python, Django**
 
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
+- 👯 I’m available for collaboration on any interesting project
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **GCP**
 
@@ -94,7 +94,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,golang,aws,css,discord,docker,postgres,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,postman,py,react,redux,vscode,kubernetes&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,golang,css,discord,docker,postgres,redis,github,html,java,js,linux,md,materialui,nginx,mongodb,mysql,nextjs,postman,py,react,redux,vscode,kubernetes&perline=14" />
   </a>
 </p>
 
