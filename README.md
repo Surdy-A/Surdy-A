@@ -28,17 +28,8 @@
 
 <!--profile visit count-->
 <div align="center">
-  
 [![](https://visitcount.itsvg.in/api?id=SurdyA&icon=3&color=6)](https://visitcount.itsvg.in)
-  
 </div>
-
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **Golang, Javascript, React, Python, Django**
@@ -53,7 +44,7 @@
 
 - 📫 Feel free to reach me out **sodiq.ajayi@yahoo.com**
 
-- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
+- 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/surdy_a) my username!
 <!--Intro end-->
 
 
