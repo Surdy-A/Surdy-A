@@ -34,13 +34,13 @@
 </div>
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Golang, Javascript, React, Python, Django**
+- 🔭 I’m currently working on **Nothing** 😼
 
 - 👯 I’m available for collaboration on any interesting project
 
 - ☁️ I've keen interest in cloud computing. So, I'm learning **GCP**
 
-- 📝 I regularly write articles on [Hashnode](https://surdya.hashnode.dev/)
+- 📝 I regularly write articles on [Hashnode](https://surdy-a.hashnode.dev/)
 
 - 💬 Ask me about **Golang, Javascript, React, Python, Django, PostgreSQL, MySQL, MongoDB, Cassandra**
 
